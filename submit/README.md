@@ -1,13 +1,7 @@
-# 🔬 Module 1: Community Assessment
-## Introduce yourself
 
 Hello! I am ***Afnan abdul vasay***, an undergraduate student studying *Computer Science* specializing in Artificial Intelligence & Machine Learning *(AI&ML)* at **Lords Institute of Engineering & Technology, Hyderabad, India**.
 
-Apart from my academic objectives, I have a keen interest in technology and enjoy contributing to the open-source community. I find it fascinating to work on new projects and explore different technologies. In my free time, I love watching movies and playing football, It relaxes my mind and boosts my energy.
 
-In addition, I am the founder and Vice President of the student community at the college. As a community leader, I always look for opportunities to help students gain the technical knowledge and skills required for the job. It gives me happiness to provide a platform where students can share their ideas, collaborate, and learn from each other. Building communities is something that I am passionate about because I believe that working together can lead to successful outcomes.
-
-I am interested in building communities because I believe they are motivations for growth, learning, collaboration, and positive impact. They create environments where individuals can thrive, support each other, and collectively achieve more than what they could as individuals. I believe in the power of collaboration and collective intelligence. Communities provide a platform for individuals with similar interests, goals, or backgrounds to come together, share their knowledge and experiences, and work towards a common purpose. Communities promote inclusivity and diversity. They bring together people from different backgrounds, cultures, and experiences, fostering an environment where different perspectives are valued and respected.
 
 ## Community Definition
 
